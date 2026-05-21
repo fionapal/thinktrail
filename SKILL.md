@@ -38,7 +38,7 @@ Cowork 在 iframe 中打开 HTML。这导致三条铁律：
 
 **工具：** `mcp__session_info__list_sessions` / `mcp__session_info__read_transcript`
 
-**触发词：** `/thinktrail`、`/tt`
+**触发词：** `/thinktrail`
 
 **参数：**
 
@@ -222,3 +222,4 @@ CDN：`https://cdn.jsdelivr.net/npm/simple-mind-map/dist/simpleMindMap.umd.min.j
 
 - 用户用中文就中文回复，用英文就英文回复
 - Mindmap 节点语言与原始对话一致
+        
