@@ -1,3 +1,5 @@
+[中文](README_CN.md)
+
 # ThinkTrail
 
 > Trace your thinking across AI conversations. Turn scattered Cowork sessions into an interactive, editable mindmap.
@@ -29,4 +31,4 @@ Open [demo/example-mindmap.html](demo/example-mindmap.html) in your browser.
 
 ## Keywords
 
-mindmap, mind map, thinking tracker, AI conversation history, Cowork skill, Claude session tracker, knowledge graph, thought organizer, conversation visual
+mindmap, mind map, thinking tracker, AI conversation history, Cowork skill, Claude session tracker, knowledge graph, thought organi
